@@ -2,12 +2,12 @@
 
 Here we are creating a decision tree using a cart method of smile library which takes parameters ::
 
-Array of instance values for training
+-Array of instance values for training
 
-Array of responses for those instances
+-Array of responses for those instances
 
-Array of attributes
+-Array of attributes
 
-Maximum number of nodes in the tree
+-Maximum number of nodes in the tree
 
 
